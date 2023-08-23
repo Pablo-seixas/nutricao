@@ -29,11 +29,8 @@ Esta tabela armazena informações sobre as refeições feitas pelos desenvolved
 | 5  | 4            | Jantar           | Salmão grelhado com legumes no vapor   | 2023-08-22  |
 | 6  | 5            | Café da Manhã    | Smoothie de frutas com aveia            | 2023-08-22  |
 
-## Gráfico de Pizza
 
-O gráfico a seguir mostra a distribuição dos tipos de refeição feitas pelos desenvolvedores.
 
-![Gráfico de Pizza](link_para_a_imagem_do_grafico_de_pizza.png)
 
 ## Contribuições
 
